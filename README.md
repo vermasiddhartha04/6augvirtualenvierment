@@ -1,0 +1,2 @@
+# 6augvirtualenvierment
+virtual envierment
